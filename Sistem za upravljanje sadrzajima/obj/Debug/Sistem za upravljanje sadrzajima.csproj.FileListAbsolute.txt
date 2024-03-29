@@ -1,0 +1,34 @@
+C:\Users\sef_s\Desktop\Inzenjerstvo upotrebljivosti u infrastrukturnim sistemima\Sistem za upravljanje sadrzajima\Sistem za upravljanje sadrzajima\bin\Debug\Sistem za upravljanje sadrzajima.exe.config
+C:\Users\sef_s\Desktop\Inzenjerstvo upotrebljivosti u infrastrukturnim sistemima\Sistem za upravljanje sadrzajima\Sistem za upravljanje sadrzajima\bin\Debug\Sistem za upravljanje sadrzajima.exe
+C:\Users\sef_s\Desktop\Inzenjerstvo upotrebljivosti u infrastrukturnim sistemima\Sistem za upravljanje sadrzajima\Sistem za upravljanje sadrzajima\bin\Debug\Sistem za upravljanje sadrzajima.pdb
+C:\Users\sef_s\Desktop\Inzenjerstvo upotrebljivosti u infrastrukturnim sistemima\Sistem za upravljanje sadrzajima\Sistem za upravljanje sadrzajima\obj\Debug\Sistem za upravljanje sadrzajima.csproj.AssemblyReference.cache
+C:\Users\sef_s\Desktop\Inzenjerstvo upotrebljivosti u infrastrukturnim sistemima\Sistem za upravljanje sadrzajima\Sistem za upravljanje sadrzajima\obj\Debug\App.g.cs
+C:\Users\sef_s\Desktop\Inzenjerstvo upotrebljivosti u infrastrukturnim sistemima\Sistem za upravljanje sadrzajima\Sistem za upravljanje sadrzajima\obj\Debug\Sistem za upravljanje sadrzajima_MarkupCompile.cache
+C:\Users\sef_s\Desktop\Inzenjerstvo upotrebljivosti u infrastrukturnim sistemima\Sistem za upravljanje sadrzajima\Sistem za upravljanje sadrzajima\obj\Debug\Sistem za upravljanje sadrzajima_MarkupCompile.lref
+C:\Users\sef_s\Desktop\Inzenjerstvo upotrebljivosti u infrastrukturnim sistemima\Sistem za upravljanje sadrzajima\Sistem za upravljanje sadrzajima\obj\Debug\Sistem za upravljanje sadrzajima.g.resources
+C:\Users\sef_s\Desktop\Inzenjerstvo upotrebljivosti u infrastrukturnim sistemima\Sistem za upravljanje sadrzajima\Sistem za upravljanje sadrzajima\obj\Debug\Sistem_za_upravljanje_sadrzajima.Properties.Resources.resources
+C:\Users\sef_s\Desktop\Inzenjerstvo upotrebljivosti u infrastrukturnim sistemima\Sistem za upravljanje sadrzajima\Sistem za upravljanje sadrzajima\obj\Debug\Sistem za upravljanje sadrzajima.csproj.GenerateResource.cache
+C:\Users\sef_s\Desktop\Inzenjerstvo upotrebljivosti u infrastrukturnim sistemima\Sistem za upravljanje sadrzajima\Sistem za upravljanje sadrzajima\obj\Debug\Sistem za upravljanje sadrzajima.csproj.CoreCompileInputs.cache
+C:\Users\sef_s\Desktop\Inzenjerstvo upotrebljivosti u infrastrukturnim sistemima\Sistem za upravljanje sadrzajima\Sistem za upravljanje sadrzajima\obj\Debug\Sistem za upravljanje sadrzajima.exe
+C:\Users\sef_s\Desktop\Inzenjerstvo upotrebljivosti u infrastrukturnim sistemima\Sistem za upravljanje sadrzajima\Sistem za upravljanje sadrzajima\obj\Debug\Sistem za upravljanje sadrzajima.pdb
+C:\Users\sef_s\Desktop\Inzenjerstvo upotrebljivosti u infrastrukturnim sistemima\Sistem za upravljanje sadrzajima\Sistem za upravljanje sadrzajima\obj\Debug\MainWindow.g.cs
+C:\Users\sef_s\Desktop\Inzenjerstvo upotrebljivosti u infrastrukturnim sistemima\Sistem za upravljanje sadrzajima\Sistem za upravljanje sadrzajima\obj\Debug\MainWindow.baml
+C:\Users\sef_s\Desktop\Inzenjerstvo upotrebljivosti u infrastrukturnim sistemima\Sistem za upravljanje sadrzajima\Sistem za upravljanje sadrzajima\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\sef_s\Desktop\Inzenjerstvo upotrebljivosti u infrastrukturnim sistemima\Sistem za upravljanje sadrzajima\Sistem za upravljanje sadrzajima\bin\Debug\Notification.Wpf.dll
+C:\Users\sef_s\Desktop\Inzenjerstvo upotrebljivosti u infrastrukturnim sistemima\Sistem za upravljanje sadrzajima\Sistem za upravljanje sadrzajima\bin\Debug\System.ValueTuple.dll
+C:\Users\sef_s\Desktop\Inzenjerstvo upotrebljivosti u infrastrukturnim sistemima\Sistem za upravljanje sadrzajima\Sistem za upravljanje sadrzajima\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\sef_s\Desktop\Inzenjerstvo upotrebljivosti u infrastrukturnim sistemima\Sistem za upravljanje sadrzajima\Sistem za upravljanje sadrzajima\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\sef_s\Desktop\Inzenjerstvo upotrebljivosti u infrastrukturnim sistemima\Sistem za upravljanje sadrzajima\Sistem za upravljanje sadrzajima\bin\Debug\Notification.Wpf.pdb
+C:\Users\sef_s\Desktop\Inzenjerstvo upotrebljivosti u infrastrukturnim sistemima\Sistem za upravljanje sadrzajima\Sistem za upravljanje sadrzajima\bin\Debug\Notification.Wpf.xml
+C:\Users\sef_s\Desktop\Inzenjerstvo upotrebljivosti u infrastrukturnim sistemima\Sistem za upravljanje sadrzajima\Sistem za upravljanje sadrzajima\bin\Debug\System.ValueTuple.xml
+C:\Users\sef_s\Desktop\Inzenjerstvo upotrebljivosti u infrastrukturnim sistemima\Sistem za upravljanje sadrzajima\Sistem za upravljanje sadrzajima\obj\Debug\Sistem za upravljanje sadrzajima.csproj.CopyComplete
+C:\Users\sef_s\Desktop\Inzenjerstvo upotrebljivosti u infrastrukturnim sistemima\Sistem za upravljanje sadrzajima\Sistem za upravljanje sadrzajima\obj\Debug\Windows\DataGridTable.g.cs
+C:\Users\sef_s\Desktop\Inzenjerstvo upotrebljivosti u infrastrukturnim sistemima\Sistem za upravljanje sadrzajima\Sistem za upravljanje sadrzajima\obj\Debug\Windows\DataGridTable.baml
+C:\Users\sef_s\Desktop\Inzenjerstvo upotrebljivosti u infrastrukturnim sistemima\Sistem za upravljanje sadrzajima\Sistem za upravljanje sadrzajima\obj\Debug\Windows\AddFootballClub.g.cs
+C:\Users\sef_s\Desktop\Inzenjerstvo upotrebljivosti u infrastrukturnim sistemima\Sistem za upravljanje sadrzajima\Sistem za upravljanje sadrzajima\obj\Debug\Windows\AddFootballClub.baml
+C:\Users\sef_s\Desktop\Inzenjerstvo upotrebljivosti u infrastrukturnim sistemima\Sistem za upravljanje sadrzajima\Sistem za upravljanje sadrzajima\bin\Debug\FontAwesome5.dll
+C:\Users\sef_s\Desktop\Inzenjerstvo upotrebljivosti u infrastrukturnim sistemima\Sistem za upravljanje sadrzajima\Sistem za upravljanje sadrzajima\bin\Debug\FontAwesome5.Net.dll
+C:\Users\sef_s\Desktop\Inzenjerstvo upotrebljivosti u infrastrukturnim sistemima\Sistem za upravljanje sadrzajima\Sistem za upravljanje sadrzajima\bin\Debug\FontAwesome5.xml
+C:\Users\sef_s\Desktop\Inzenjerstvo upotrebljivosti u infrastrukturnim sistemima\Sistem za upravljanje sadrzajima\Sistem za upravljanje sadrzajima\bin\Debug\FontAwesome5.Net.xml
+C:\Users\sef_s\Desktop\Inzenjerstvo upotrebljivosti u infrastrukturnim sistemima\Sistem za upravljanje sadrzajima\Sistem za upravljanje sadrzajima\obj\Debug\Windows\PreviewData.g.cs
+C:\Users\sef_s\Desktop\Inzenjerstvo upotrebljivosti u infrastrukturnim sistemima\Sistem za upravljanje sadrzajima\Sistem za upravljanje sadrzajima\obj\Debug\Windows\PreviewData.baml

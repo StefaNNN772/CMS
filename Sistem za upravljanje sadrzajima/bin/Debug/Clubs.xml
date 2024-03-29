@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<ArrayOfClub xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Club>
+    <id>1</id>
+    <name>Crvena Zvezda</name>
+    <picture>../../Image/Football clubs/Crvena Zvezda.png</picture>
+    <rtf>Crvena Zvezda.rtf</rtf>
+    <date>2024-03-29T00:00:00+01:00</date>
+    <selected>false</selected>
+    <Id>1</Id>
+    <Name>Crvena Zvezda</Name>
+    <Picture>../../Image/Football clubs/Crvena Zvezda.png</Picture>
+    <Rtf>Crvena Zvezda.rtf</Rtf>
+    <Date>2024-03-29T00:00:00+01:00</Date>
+    <Selected>false</Selected>
+  </Club>
+  <Club>
+    <id>2</id>
+    <name>Real Madrid</name>
+    <picture>../../Image/Football clubs/Real Madrid.png</picture>
+    <rtf>Real Madrid.rtf</rtf>
+    <date>2024-03-29T00:00:00+01:00</date>
+    <selected>false</selected>
+    <Id>2</Id>
+    <Name>Real Madrid</Name>
+    <Picture>../../Image/Football clubs/Real Madrid.png</Picture>
+    <Rtf>Real Madrid.rtf</Rtf>
+    <Date>2024-03-29T00:00:00+01:00</Date>
+    <Selected>false</Selected>
+  </Club>
+  <Club>
+    <id>3</id>
+    <name>Ac Milan</name>
+    <picture>../../Image/Football clubs/Milan.png</picture>
+    <rtf>Ac Milan.rtf</rtf>
+    <date>2024-03-29T00:00:00+01:00</date>
+    <selected>false</selected>
+    <Id>3</Id>
+    <Name>Ac Milan</Name>
+    <Picture>../../Image/Football clubs/Milan.png</Picture>
+    <Rtf>Ac Milan.rtf</Rtf>
+    <Date>2024-03-29T00:00:00+01:00</Date>
+    <Selected>false</Selected>
+  </Club>
+</ArrayOfClub>

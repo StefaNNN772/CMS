@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<ArrayOfBlub xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Club>
+    <Id>3</Id>
+    <name>Kulen</name>
+    <picture>C:\Users\sef_s\Desktop\Inzenjerstvo upotrebljivosti u infrastrukturnim sistemima\Djoletov\VojvodjanskaKuhinjaProj\pictures\kulen.jpg</picture>
+    <details>Kulen.rtf</details>
+    <timeOfAddition>2024-03-27T00:00:00+01:00</timeOfAddition>
+    <Selected>false</Selected>
+    <Id>3</Id>
+    <Name>Kulen</Name>
+    <Picture>C:\Users\sef_s\Desktop\Inzenjerstvo upotrebljivosti u infrastrukturnim sistemima\Djoletov\VojvodjanskaKuhinjaProj\pictures\kulen.jpg</Picture>
+    <rtf>Kulen.rtf</rtf>
+    <Date>2024-03-27T00:00:00+01:00</Date>
+    <Selected>false</Selected>
+  </Club>
+</ArrayOfClub>
